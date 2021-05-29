@@ -1,0 +1,16 @@
+{
+  "name": "BotWLconanHiboria",
+  "version": "1.0.0",
+  "description": "Bot experimental dedicado para listagem de whitelist, blacklist, liberação e banimento de jogadores de Conan Exiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Márcio 'MK' B. Cyrilo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
